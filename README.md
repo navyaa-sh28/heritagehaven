@@ -32,3 +32,8 @@ Core functionality is implemented, but many features are still being built and i
 ---
 
 ## 📁 Project Structure
+project/
+│── index.html
+│── app.js
+│── firebase.js
+│── styles.css
